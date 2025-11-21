@@ -2,7 +2,7 @@ name: Build geoip files
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 4"
+    - cron: "0 0 * * *"
   push:
     branches:
       - master
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout codebase
-        uses: actions/checkout@v6
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
