@@ -1,6 +1,9 @@
-https://github.com/ZY714IU/geoip/raw/refs/heads/release/Country-only-cn-private.mmdb
 
-https://github.com/ZY714IU/geoip/raw/refs/heads/release/Country-asn.mmdb
+### 📥 下载链接
+| 项目 | 📃 文件 | GitHub RAW |
+| :--: | :--: | :--: |
+| asn | CN-ip-cidr.txt | [点我下载](https://github.com/ZY714IU/geoip/raw/refs/heads/release/Country-asn.mmdb) |
+| GeoIP2 | Country.mmdb | [点我下载](https://github.com/ZY714IU/geoip/raw/refs/heads/release/Country-only-cn-private.mmdb) |
 
 # 简介
 
