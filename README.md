@@ -13,6 +13,10 @@
 
 ## License
 
-[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) and [GPL-3.0](https://github.com/ZY714IU/GeoIP/blob/master/LICENSE-GPL)
+[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) and 
+[GPL-3.0](https://github.com/ZY714IU/GeoIP/blob/master/LICENSE-GPL)
 
-This product includes GeoLite2 data created by MaxMind, available from [MaxMind](http://www.maxmind.com).
+This project also contains third-party IP data which retain their original licenses.
+
+This product includes GeoLite2 data created by MaxMind, and its use is subject to the 
+GeoLite2 End User License Agreement. Data available from https://www.maxmind.com.
